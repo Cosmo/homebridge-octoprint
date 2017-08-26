@@ -19,8 +19,8 @@ Under accessories, add:
 
 ## Author
 
-Original Author: Phillip Wong
-Fixes by: Devran "Cosmo" Uenal
+* Original Author: Phillip Wong
+* Fixes by: Devran "Cosmo" Uenal
 
 ## License
 
