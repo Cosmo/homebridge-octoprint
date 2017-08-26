@@ -1,17 +1,15 @@
 {
   "name": "homebridge-octoprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Temperature control of your 3D printer through Octoprint.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Phillip Wong",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin",
     "octoprint",
-    "3d printer"
+    "3d printer",
+    "temperature"
   ],
   "engines": {
     "node": ">=0.12.0",
@@ -19,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/plmwong/homebridge-octoprint.git"
+    "url": "git://github.com/Cosmo/homebridge-octoprint.git"
   },
   "dependencies": {
     "request": "^2.74.0",
